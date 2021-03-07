@@ -1,0 +1,6 @@
+{
+  "name": "yarnpkg-checksum-test",
+  "dependencies": {
+    "yarnpkg-checksum-test-dep": "github:jhurliman/yarnpkg-checksum-test-dep#5fc6087fcda7c064d0065219ac741bac242216db"
+  }
+}
